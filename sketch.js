@@ -271,7 +271,7 @@ if(Background.x<0){
         }
 
            function reset1(){ 
-             gameState="play"
+             gameState='Play'
              score=0;
              gameover.visible=false;
              restart.visible=false;
